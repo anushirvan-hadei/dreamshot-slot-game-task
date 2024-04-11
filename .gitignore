@@ -1,0 +1,6 @@
+# Default ignored files
+.idea
+dist
+# Editor-based HTTP Client requests
+node_modules
+package-lock.json
